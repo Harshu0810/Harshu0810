@@ -33,32 +33,29 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-```python
-class HarshitGoyal:
-    def __init__(self):
-        self.name       = "Harshit Goyal"
-        self.role       = "Data Scientist & ML Engineer"
-        self.location   = "Ajmer, Rajasthan, India 🇮🇳"
-        self.education  = "B.Tech IT — RTU Kota (2022–2026) | CGPA: 8.45"
-        self.email      = "harshitgoyal[at]email.com"
-        self.open_to    = ["Full-Time Roles", "Internships", "Collaborations"]
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 
-    def skills(self):
-        return {
-            "Languages"      : ["Python 🐍", "SQL", "C/C++", "JavaScript"],
-            "ML/DS"          : ["scikit-learn", "XGBoost", "Random Forest", "Pandas", "NumPy"],
-            "Visualization"  : ["Power BI", "Tableau", "Matplotlib", "Sweetviz"],
-            "Web"            : ["HTML", "CSS", "JS", "Gradio", "Streamlit"],
-            "Tools"          : ["Git", "VS Code", "Jupyter", "Excel"],
-        }
+- 🎓 **B.Tech in Information Technology** @ RTU Kota *(2022–2026)* | CGPA: **8.45**
+- 💼 **Data Science Intern** @ C-DAC Pune *(Ongoing)*
+- 📍 Based in **Ajmer, Rajasthan, India** 🇮🇳
+- 🤖 Passionate about **Machine Learning**, **Data Analytics** & **AI**
+- 🌐 Also build clean **Web Apps** with real-world utility
+- 🧠 Currently exploring **NLP**, **Crop Yield Prediction** & **Ollama / Local LLMs**
+- 🤝 Open to **Full-Time Roles**, **Internships** & **Collaborations**
+- ⚡ Fun fact: I built a tool that **intentionally breaks code** to teach AI how to fix it!
 
-    def current_focus(self):
-        return "Bridging Data Science with real-world impact 🚀"
+<br clear="right"/>
 
-me = HarshitGoyal()
-print(me.current_focus())
-# Output: Bridging Data Science with real-world impact 🚀
-```
+<div align="center">
+
+| 🏷️ | Details |
+|:---:|:--------|
+| 💡 | Bridging Data Science with real-world impact |
+| 🌱 | Currently learning: NLP · LLMs · Deep Learning |
+| 📬 | Reach me on [LinkedIn](https://www.linkedin.com/in/harshit-goyal-b2aaa6214) or [WhatsApp](https://wa.me/+919660335474) |
+| 🟢 | **Status: Open to Opportunities** |
+
+</div>
 
 ---
 
