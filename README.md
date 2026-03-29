@@ -41,18 +41,10 @@
 
 <!-- ═══════════════════ SKILLS ═══════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> Skills & Proficiency
+## ⚡ Skills & Proficiency
 
 <div align="center">
-
-| Skill | Level | Proficiency |
-|:------|:-----:|:-----------:|
-| 🐍 **Python** | Expert | `█████████░` 90% |
-| 🤖 **Machine Learning** | Advanced | `████████░░` 80% |
-| 📊 **Data Visualization** | Advanced | `███████░░░` 78% |
-| 🌐 **Web Development** | Intermediate | `███████░░░` 72% |
-| 💻 **C / C++** | Intermediate | `██████░░░░` 65% |
-
+  <img src="https://raw.githubusercontent.com/Harshu0810/Harshu0810/main/skills.svg" width="100%" alt="Skills" />
 </div>
 
 ### 🛠️ Tech Stack
