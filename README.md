@@ -22,7 +22,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshu0810&label=Profile+Views&color=FFD700&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Harshu0810&label=Profile+Views&color=CAEBFF&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Harshu0810?label=Followers&style=for-the-badge&color=FFD700&labelColor=1a1a2e)
 
 </div>
