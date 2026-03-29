@@ -23,7 +23,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshu0810&label=Profile+Views&color=36454F&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Harshu0810?label=Followers&style=for-the-badge&color=FFD700&labelColor=1a1a2e)
+![Followers](https://img.shields.io/github/followers/Harshu0810?label=Followers&style=for-the-badge&color=36454F&labelColor=CAEBFF)
 
 </div>
 
