@@ -33,28 +33,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
-
-- 🎓 **B.Tech in Information Technology** @ RTU Kota *(2022–2026)* | CGPA: **8.45**
-- 💼 **Data Science Intern** @ C-DAC Pune *(Ongoing)*
-- 📍 Based in **Ajmer, Rajasthan, India** 🇮🇳
-- 🤖 Passionate about **Machine Learning**, **Data Analytics** & **AI**
-- 🌐 Also build clean **Web Apps** with real-world utility
-- 🧠 Currently exploring **NLP**, **Crop Yield Prediction** & **Ollama / Local LLMs**
-- 🤝 Open to **Full-Time Roles**, **Internships** & **Collaborations**
-- ⚡ Fun fact: I built a tool that **intentionally breaks code** to teach AI how to fix it!
-
-<br clear="right"/>
-
 <div align="center">
-
-| 🏷️ | Details |
-|:---:|:--------|
-| 💡 | Bridging Data Science with real-world impact |
-| 🌱 | Currently learning: NLP · LLMs · Deep Learning |
-| 📬 | Reach me on [LinkedIn](https://www.linkedin.com/in/harshit-goyal-b2aaa6214) or [WhatsApp](https://wa.me/+919660335474) |
-| 🟢 | **Status: Open to Opportunities** |
-
+  <img src="https://raw.githubusercontent.com/Harshu0810/Harshu0810/main/about-me.svg" width="100%" alt="About Me" />
 </div>
 
 ---
