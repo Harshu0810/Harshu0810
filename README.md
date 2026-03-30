@@ -43,7 +43,31 @@
 ## ⚡ Skills & Proficiency
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Harshu0810/Harshu0810/main/skills.svg" width="100%" alt="Skills" />
+
+**🐍 Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark" />
+
+**🤖 Data Science & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+
+**🛠️ Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,bash&theme=dark" />
+
+<br/><br/>
+
+**📊 Proficiency**
+
+| Skill | Level | Proficiency |
+|:-----:|:-----:|:-----------|
+| 🐍 Python | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | `██████████` 90% |
+| 🤖 Machine Learning | ![Advanced](https://img.shields.io/badge/Advanced-0891b2?style=flat-square) | `████████░░` 80% |
+| 📊 Data Visualization | ![Advanced](https://img.shields.io/badge/Advanced-0e7490?style=flat-square) | `███████░░░` 78% |
+| 🌐 Web Development | ![Intermediate](https://img.shields.io/badge/Intermediate-059669?style=flat-square) | `███████░░░` 72% |
+| 💻 C / C++ | ![Intermediate](https://img.shields.io/badge/Intermediate-6d28d9?style=flat-square) | `██████░░░░` 65% |
+
 </div>
 
 ### 🛠️ Tech Stack
