@@ -215,7 +215,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshu0810&bg_color=0f0c29&color=06b6d4&line=7c3aed&point=a78bfa&area=true&hide_border=false&area_color=7c3aed20&title_color=a78bfa" width="100%"/>
+  <img src="https://pacman-contrib.vercel.app/api?username=Harshu0810&color=7c3aed&pillarColor=0f0c29&backgroundColor=0f0c29" width="100%"/>
 </div>
 
 ---
