@@ -146,9 +146,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshu0810&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&border_color=FFD700&bg_color=0d1117&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Harshu0810&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&border_color=FFD700&bg_color=0d1117&text_color=ffffff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshu0810&layout=compact&theme=radical&title_color=FFD700&border_color=FFD700&bg_color=0d1117&text_color=ffffff&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Harshu0810&layout=compact&theme=radical&title_color=FFD700&border_color=FFD700&bg_color=0d1117&text_color=ffffff&langs_count=8" height="180" alt="Top Languages" />
 
 </div>
 
