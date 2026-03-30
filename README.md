@@ -212,10 +212,10 @@
 
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 
-## 📅 Contribution Calendar
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/Harshu0810" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harshu0810&theme=tokyonight&layout=compact" width="100%"/>
 </div>
 
 ---
