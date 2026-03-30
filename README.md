@@ -212,10 +212,16 @@
 
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 
-## 🐍 Contribution Snake
+## 🐍 Summary Cards
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harshu0810&theme=tokyonight&layout=compact" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshu0810&theme=tokyonight" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshu0810&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshu0810&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshu0810&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshu0810&theme=tokyonight&utcOffset=5.5" height="160"/>
 </div>
 
 ---
