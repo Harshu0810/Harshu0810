@@ -7,7 +7,7 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 
 <a href="https://github.com/Harshu0810">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Harshit+Goyal!;📊+Data+Scientist+%26+ML+Enthusiast;🤖+Building+Intelligent+Systems;🌐+Full-Stack+Data+Thinker;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.45);🚀+Open+to+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Harshit+Goyal!;📊+Data+Scientist+%26+ML+Enthusiast;🤖+Building+Intelligent+Systems;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.45);🚀+Open+to+Opportunities!" alt="Typing SVG" />
 </a>
 
 <br/>
