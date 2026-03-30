@@ -204,7 +204,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harshu0810&theme=radical&no-frame=false&margin-w=4&column=7)
+![Trophies](https://github-trophies.vercel.app/?username=Harshu0810&theme=radical&no-frame=false&margin-w=4&column=7)
 
 </div>
 
