@@ -212,16 +212,10 @@
 
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshu0810/Harshu0810/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshu0810/Harshu0810/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Harshu0810/Harshu0810/output/github-snake.svg" />
-</picture>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshu0810&bg_color=0f0c29&color=06b6d4&line=7c3aed&point=a78bfa&area=true&hide_border=false&area_color=7c3aed20&title_color=a78bfa" width="100%"/>
 </div>
 
 ---
