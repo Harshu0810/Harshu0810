@@ -203,9 +203,9 @@
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-![Commits](https://img.shields.io/badge/Total_Commits-234-7c3aed?style=for-the-badge&logo=github)
-![Streak](https://img.shields.io/badge/Longest_Streak-6_days-06b6d4?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Open_Source-Active-34d399?style=for-the-badge&logo=github)
+  <img src="https://img.shields.io/badge/Total_Commits-234-7c3aed?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Longest_Streak-6_days-06b6d4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open_Source-Active-34d399?style=for-the-badge&logo=github" />
 </div>
 
 ---
