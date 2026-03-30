@@ -212,10 +212,10 @@
 
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 
-## 🏙️ Contribution Skyline
+## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="https://skyline.github.com/Harshu0810/2025.svg" width="100%"/>
+  <img src="https://ghchart.rshah.org/7c3aed/Harshu0810" width="100%" />
 </div>
 
 ---
