@@ -212,10 +212,10 @@
 
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 
-## 📈 Contribution Graph
+## 🏙️ Contribution Skyline
 
 <div align="center">
-  <img src="https://pacman-contrib.vercel.app/api?username=Harshu0810&color=7c3aed&pillarColor=0f0c29&backgroundColor=0f0c29" width="100%"/>
+  <img src="https://skyline.github.com/Harshu0810/2025.svg" width="100%"/>
 </div>
 
 ---
