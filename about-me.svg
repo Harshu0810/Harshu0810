@@ -190,12 +190,6 @@
       <animate attributeName="opacity" values="0;1" begin="1.5s" dur="0.6s" fill="freeze"/>
     </text>
 
-    <!-- Row 6 -->
-    <text x="60" y="270" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#e6edf3" opacity="0">
-      ⚡  Built FailSafe AI — tool that intentionally breaks code!
-      <animate attributeName="opacity" values="0;1" begin="1.8s" dur="0.6s" fill="freeze"/>
-    </text>
-
     <!-- Status badge -->
     <rect x="60" y="287" width="168" height="22" rx="11" fill="#22863a" fill-opacity="0.25" stroke="#3fb950" stroke-width="0.8" opacity="0">
       <animate attributeName="opacity" values="0;1" begin="2.1s" dur="0.6s" fill="freeze"/>
