@@ -243,7 +243,6 @@
 
     <!-- Center hex glow text -->
     <text x="750" y="135" font-family="'Segoe UI', Arial, sans-serif" font-size="28" text-anchor="middle" fill="#FFD700" filter="url(#softGlow)" opacity="0.9">
-      ⬡
       <animate attributeName="opacity" values="0.9;0.3;0.9" dur="3s" repeatCount="indefinite"/>
     </text>
 
