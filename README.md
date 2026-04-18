@@ -2,12 +2,12 @@
 
 <!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Harshit%20Goyal&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=FFD700&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Web%20Developer&descAlignY=56&descSize=20&descColor=FFC107" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Goyal&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Web%20Developer&descAlignY=58&descSize=20&descColor=a78bfa&stroke=7c3aed&strokeWidth=2" width="100%" />
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 
 <a href="https://github.com/Harshu0810">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Harshit+Goyal!;📊+Data+Scientist+%26+ML+Enthusiast;🤖+Building+Intelligent+Systems;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.45);🚀+Open+to+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Harshit+Goyal!;🧠+Turning+Data+into+Decisions;🤖+Machine+Learning+%7C+NLP+%7C+LLMs;📊+Power+BI+%7C+Tableau+%7C+Streamlit;🌐+Building+Real-World+Web+Apps;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.45);🚀+Open+to+Opportunities+—+Let's+Build!" alt="Typing SVG" />
 </a>
 
 <br/>
