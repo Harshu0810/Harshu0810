@@ -194,19 +194,15 @@
 
 ## 🎓 Education
 
-```
-🏛️  Rajasthan Technical University, Kota
-    B.Tech in Information Technology  |  2022 – 2026
-    CGPA: 8.45 ⭐
+<div align="center">
 
-📚  Vrindavan Public School (CBSE)
-    Class XII  |  2020 – 2022
-    Aggregate: 82.80%
+| 🏛️ Institution | 📚 Degree / Board | 📅 Year | 🏆 Score |
+|:--------------|:-----------------|:-------:|:--------:|
+| **Rajasthan Technical University, Kota** | B.Tech — Information Technology | 2022 – 2026 | ![CGPA](https://img.shields.io/badge/CGPA-8.45-7c3aed?style=flat-square) |
+| **Vrindavan Public School (CBSE)** | Class XII | 2020 – 2022 | ![Score](https://img.shields.io/badge/82.80%25-0891b2?style=flat-square) |
+| **St. Paul's Sr. Sec. School, Ajmer** | Class X (CBSE) | 2019 – 2020 | ![Score](https://img.shields.io/badge/84.80%25-059669?style=flat-square) |
 
-📖  St. Paul's Sr. Sec. School, Ajmer (CBSE)
-    Class X  |  2019 – 2020
-    Aggregate: 84.80%
-```
+</div>
 
 ---
 
@@ -214,11 +210,31 @@
 
 ## 🏅 Leadership & Activities
 
-- 🚀 **Executive Member — Start-up Cell (IIC), RTU** *(2023)*
-  Conducted internship drives with **35+ startups**, creating **118+ internship opportunities** for students.
+<div align="center">
 
-- 🎯 **Assistant Coordinator — Placement Cell, RTU** *(2024)*
-  Organized placement drives and student career guidance sessions.
+<table>
+  <tr>
+    <td>🚀</td>
+    <td><b>Executive Member — Start-up Cell (IIC), RTU</b> &nbsp;<img src="https://img.shields.io/badge/2023-7c3aed?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Conducted internship drives with <b>35+ startups</b>, creating <b>118+ opportunities</b> for students.</td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td>🎯</td>
+    <td><b>Assistant Coordinator — Placement Cell, RTU</b> &nbsp;<img src="https://img.shields.io/badge/2024-06b6d4?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Organized placement drives and career guidance sessions for the graduating batch.</td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ---
 
@@ -256,26 +272,47 @@
 
 <div align="center">
 
-> *"Have a project in mind, a collaboration idea, or just want to say hello? Drop me a message — I read every single one."*
+> ### *"Have a project in mind, a collaboration idea, or just want to say hello?*
+> ### *Drop me a message — I read every single one."* 💬
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-goyal-b2aaa6214)
-[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919660335474)
-[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshit__2425)
+<a href="https://www.linkedin.com/in/harshit-goyal-b2aaa6214">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://wa.me/+919660335474">
+  <img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/harshit__2425">
+  <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://port-test-ashy.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-📍 **Ajmer, Rajasthan, India** &nbsp;|&nbsp; 🟢 **Open to Opportunities**
+<br/><br/>
+
+📍 **Ajmer, Rajasthan, India** &nbsp;|&nbsp; 🟢 **Open to Opportunities** &nbsp;|&nbsp; ⏰ **IST (UTC +5:30)**
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<!-- ══════════════════════════════════════════════════════
+     FOOTER
+══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!&fontSize=26&fontColor=a78bfa&fontAlignY=70" width="100%"/>
 
-<sub>⭐ <b>Star</b> my repos if you find them useful! Made with ❤️ from Ajmer, India 🇮🇳</sub>
+<sub>⭐ <b>Star</b> my repos if you find them useful &nbsp;|&nbsp; Built with ❤️ from Ajmer, India 🇮🇳 &nbsp;|&nbsp;</sub>
 
 </div>
