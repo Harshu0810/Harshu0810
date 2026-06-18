@@ -152,8 +152,8 @@
     </text>
 
     <!-- Role tag -->
-    <rect x="60" y="92" width="245" height="22" rx="11" fill="#FFD700" fill-opacity="0.12" stroke="#FFD700" stroke-width="0.8" stroke-opacity="0.4"/>
-    <text x="72" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#FFD700" opacity="0.9">⚡ Data Scientist &amp; ML Engineer</text>
+    <rect x="60" y="92" width="260" height="22" rx="11" fill="#FFD700" fill-opacity="0.12" stroke="#FFD700" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text x="72" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#FFD700" opacity="0.9">⚡ AI Automation · ML · Data Science</text>
 
     <!-- Divider line -->
     <line x1="60" y1="128" x2="380" y2="128" stroke="#FFD700" stroke-width="0.7" stroke-opacity="0.3"/>
@@ -162,13 +162,13 @@
 
     <!-- Row 1 -->
     <text x="60" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#e6edf3" opacity="0">
-      🎓  B.Tech IT @ RTU Kota (2022–2026)  |  CGPA: 8.45
+      🎓  B.Tech IT @ RTU Kota (2022–2026)  |  CGPA: 8.63
       <animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.6s" fill="freeze"/>
     </text>
 
     <!-- Row 2 -->
     <text x="60" y="178" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" fill="#e6edf3" opacity="0">
-      💼  Data Science Intern @ C-DAC Pune (Ongoing)
+      💼  AI Automation Intern @ C-DAC ACTS, Pune
       <animate attributeName="opacity" values="0;1" begin="0.6s" dur="0.6s" fill="freeze"/>
     </text>
 

@@ -2,12 +2,12 @@
 
 <!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Goyal&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Web%20Developer&descAlignY=58&descSize=20&descColor=a78bfa&stroke=7c3aed&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Goyal&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=fff&desc=AI%20Automation%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=20&descColor=a78bfa&stroke=7c3aed&strokeWidth=2" width="100%" />
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 
 <a href="https://github.com/Harshu0810">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Harshit+Goyal!;🧠+Turning+Data+into+Decisions;🤖+Machine+Learning+%7C+NLP+%7C+LLMs;📊+Power+BI+%7C+Tableau+%7C+Streamlit;🌐+Building+Real-World+Web+Apps;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.45);🚀+Open+to+Opportunities+—+Let's+Build!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Harshit+Goyal!;🧠+AI+Automation+%7C+Machine+Learning+%7C+Data+Science;🤖+scikit-learn+%7C+XGBoost+%7C+TensorFlow+%7C+PyTorch;⚡+FAISS+%7C+RAG+%7C+LlamaIndex+%7C+Ollama;📊+Power+BI+%7C+Tableau+%7C+Streamlit+%7C+Gradio;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.63);🚀+Open+to+Opportunities+—+Let's+Build!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -74,34 +74,44 @@
 
 <div align="center">
 
-**Data Science & ML**
+**Data Science, ML & RAG**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0052CC?style=for-the-badge&logo=llama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Visualization & BI**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white)
 
 **Web & Deployment**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Tools & Databases**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -114,29 +124,41 @@
 ## 💼 Experience
 
 <details>
-<summary><b>🔬 Data Science Intern — C-DAC Pune</b> &nbsp;|&nbsp; <i>Ongoing (Remote)</i></summary>
+<summary><b>⚙️ AI Automation Intern — C-DAC ACTS, Pune</b> &nbsp;|&nbsp; <i>Jan 2026 — Jun 2026 (Remote)</i></summary>
 
 <br/>
 
-- 🗺️ Indian geographic population analysis using **Census 2011** data & future projections
-- 🌾 Crop yield prediction with **FAOSTAT + NASA climate datasets**
-- 🤖 Built and evaluated ML models: **Random Forest**, **Gradient Boosting**, **Linear Regression**
-- 📜 Web scraping & data pipeline for multilingual alignment of **Supreme Court judgments** (NLP)
+- ⚙️ Engineered an end-to-end automation engine using **Playwright** to translate 23 document formats on the Bharati Portal and built a **PyMuPDF** text validation pipeline calculating character-level QA metrics.
+- 📜 Developed a web scraping and NLP data pipeline for paragraph-wise, multilingual alignment of **Supreme Court of India judgments** using Selenium, BeautifulSoup, and rule-based domain classification.
+- 🌾 Built a crop yield prediction pipeline integrating **FAOSTAT** agricultural data with **NASA POWER** climate variables; trained **Random Forest**, **Gradient Boosting**, and **Linear Regression** models with **SHAP** explainability.
+- 🗺️ Performed demographic data automation and geographic population analysis using **Census 2011** data, computing projections with statistical modeling.
 
-**Stack:** `Python` `Random Forest` `Web Scraping` `NLP` `Gradio`
+**Stack:** `Python` `Playwright` `PyMuPDF` `Pandas` `Scikit-learn` `XGBoost` `Gradio` `Selenium` `Web Scraping` `NLP`
 
 </details>
 
 <details>
-<summary><b>📈 Data Analytics Intern — Digital Dream Team</b> &nbsp;|&nbsp; <i>May 2025 – Jul 2025</i></summary>
+<summary><b>📈 Data Analyst Intern — Digital Dream Team, Jaipur</b> &nbsp;|&nbsp; <i>May 2025 – Jul 2025 (Hybrid)</i></summary>
 
 <br/>
 
-- 📊 Built a **Sales Insights Dashboard** using SQL, Excel, and Power BI
-- 🔮 Developed a **Customer Churn Prediction** model (Logistic Regression & Random Forest)
-- 🧹 End-to-end data cleaning, feature engineering, and model evaluation
+- 📊 Developed an end-to-end **Sales Insights Dashboard** integrating SQL queries and Excel preprocessing with **Power BI / Tableau** visualizations; delivered actionable insights to stakeholders.
+- 🔮 Built a **Customer Churn Prediction** model using **Logistic Regression, Random Forest, and XGBoost**; evaluated with ROC-AUC and confusion matrix metrics.
+- 🧹 Conducted data cleaning, feature engineering, and model evaluation across **10K+ customer records**.
 
-**Stack:** `SQL` `Power BI` `Excel` `Logistic Regression`
+**Stack:** `SQL` `Power BI` `Tableau` `Excel` `Logistic Regression` `Random Forest` `XGBoost`
+
+</details>
+
+<details>
+<summary><b>🌐 Frontend Web Developer Intern — The Website Makers</b> &nbsp;|&nbsp; <i>May 2024 – Jul 2024 (Remote)</i></summary>
+
+<br/>
+
+- 🎨 Designed and maintained **6+ responsive websites** using HTML5, CSS3, JavaScript, and Bootstrap, ensuring cross-browser compatibility and modern design standards.
+- 📱 Implemented responsive layouts and interactive UI components, improving user experience across devices.
+
+**Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive Design`
 
 </details>
 
@@ -150,6 +172,7 @@
 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:----:|
+| ⚖️ **Indic Legal Engine** | Production-grade legal research platform featuring hybrid search (FAISS + BM25), cross-lingual routing, custom Indic keyboards, and RAG | `Python` `Streamlit` `FAISS` `Ollama` `Docker` | [🔗](https://huggingface.co/spaces/Harshit-2425/Indian-Judgemental) |
 | 🤖 **FailSafe AI** | Injects realistic failure scenarios into Python scripts & CSV datasets, maps errors to root causes & suggests fixes | `Python` `Streamlit` `Ollama` | [🔗](https://github.com/Harshu0810/failsafe-ai) |
 | 📊 **AlgoViz** | Client-side benchmarking tool that visualises sorting & searching algorithm runtimes with animated bar charts | `JavaScript` `Canvas` `HTML` | [🔗](https://github.com/Harshu0810/Algorithm-analyzer) |
 | 🎓 **CGPA–SGPA Calculator** | Live GPA calculator & converter with clean, responsive UI | `HTML` `CSS` `JS` | [🔗](https://cgpa-scpa-magic-amber.vercel.app/) |
@@ -198,9 +221,9 @@
 
 | 🏛️ Institution | 📚 Degree / Board | 📅 Year | 🏆 Score |
 |:--------------|:-----------------|:-------:|:--------:|
-| **Rajasthan Technical University, Kota** | B.Tech — Information Technology | 2022 – 2026 | ![CGPA](https://img.shields.io/badge/CGPA-8.45-7c3aed?style=flat-square) |
+| **Rajasthan Technical University, Kota** | B.Tech — Information Technology | 2022 – 2026 | ![CGPA](https://img.shields.io/badge/CGPA-8.63-7c3aed?style=flat-square) |
 | **Vrindavan Public School (CBSE)** | Class XII | 2020 – 2022 | ![Score](https://img.shields.io/badge/82.80%25-0891b2?style=flat-square) |
-| **St. Paul's Sr. Sec. School, Ajmer** | Class X (CBSE) | 2019 – 2020 | ![Score](https://img.shields.io/badge/84.80%25-059669?style=flat-square) |
+| **St. Paul's Sr. Sec. School, Ajmer** | Class X (CBSE) | 2019 – 2020 | ![Score](https://img.shields.io/badge/86.80%25-059669?style=flat-square) |
 
 </div>
 
@@ -277,7 +300,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/harshit-goyal-b2aaa6214">
+<a href="https://www.linkedin.com/in/harshit-goyal-data">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
