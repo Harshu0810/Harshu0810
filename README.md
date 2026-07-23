@@ -7,7 +7,7 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 
 <a href="https://github.com/Harshu0810">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Harshit+Goyal!;🧠+AI+Automation+%7C+Machine+Learning+%7C+Data+Science;🤖+scikit-learn+%7C+XGBoost+%7C+TensorFlow+%7C+PyTorch;⚡+FAISS+%7C+RAG+%7C+LlamaIndex+%7C+Ollama;📊+Power+BI+%7C+Tableau+%7C+Streamlit+%7C+Gradio;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.63);🚀+Open+to+Opportunities+—+Let's+Build!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Harshit+Goyal!;🧠+AI+Automation+%7C+Machine+Learning+%7C+Data+Science;🤖+scikit-learn+%7C+XGBoost+%7C+TensorFlow+%7C+PyTorch;⚡+FAISS+%7C+RAG+%7C+LlamaIndex+%7C+Ollama;🧪+Self-Healing+Test+Automation+%7C+Playwright+%7C+Pytest;📊+Power+BI+%7C+Tableau+%7C+Streamlit+%7C+Gradio;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.63);🚀+Open+to+Opportunities+—+Let's+Build!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -112,6 +112,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -176,6 +177,7 @@
 | 🤖 **FailSafe AI** | Injects realistic failure scenarios into Python scripts & CSV datasets, maps errors to root causes & suggests fixes | `Python` `Streamlit` `Ollama` | [🔗](https://github.com/Harshu0810/failsafe-ai) |
 | 📊 **AlgoViz** | Client-side benchmarking tool that visualises sorting & searching algorithm runtimes with animated bar charts | `JavaScript` `Canvas` `HTML` | [🔗](https://github.com/Harshu0810/Algorithm-analyzer) |
 | 🎓 **CGPA–SGPA Calculator** | Live GPA calculator & converter with clean, responsive UI | `HTML` `CSS` `JS` | [🔗](https://cgpa-scpa-magic-amber.vercel.app/) |
+| 🧪 **HealTest AI** | AI-augmented self-healing test automation framework — Ollama LLM recovers broken Playwright selectors at runtime | `Python` `Playwright` `Pytest` `Ollama` `CI/CD` | [🔗](https://github.com/Harshu0810/healtest-ai) |
 
 </div>
 
