@@ -224,8 +224,8 @@
 
 | 🏛️ Institution | 📚 Degree / Board | 📅 Year | 🏆 Score |
 |:--------------|:-----------------|:-------:|:--------:|
-| **Rajasthan Technical University, Kota** | B.Tech — Information Technology | 2022 – 2026 | ![CGPA](https://img.shields.io/badge/CGPA-8.63-7c3aed?style=flat-square) |
-| **Vrindavan Public School (CBSE)** | Class XII | 2020 – 2022 | ![Score](https://img.shields.io/badge/82.80%25-0891b2?style=flat-square) |
+| **Rajasthan Technical University, Kota** | B.Tech — Information Technology | 2022 – 2026 | ![CGPA](https://img.shields.io/badge/CGPA-8.55-7c3aed?style=flat-square) |
+| **Vrindavan Public School (CBSE)** | Class XII | 2021 – 2022 | ![Score](https://img.shields.io/badge/82.80%25-0891b2?style=flat-square) |
 | **St. Paul's Sr. Sec. School, Ajmer** | Class X (CBSE) | 2019 – 2020 | ![Score](https://img.shields.io/badge/86.80%25-059669?style=flat-square) |
 
 </div>
