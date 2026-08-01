@@ -7,7 +7,7 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 
 <a href="https://github.com/Harshu0810">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I'm+Harshit+Goyal!;🧠+AI+Automation+%7C+Machine+Learning+%7C+Data+Science;🤖+scikit-learn+%7C+XGBoost+%7C+TensorFlow+%7C+PyTorch;⚡+FAISS+%7C+RAG+%7C+LlamaIndex+%7C+Ollama;🧪+Self-Healing+Test+Automation+%7C+Playwright+%7C+Pytest;📊+Power+BI+%7C+Tableau+%7C+Streamlit+%7C+Gradio;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.55);🚀+Open+to+Opportunities+—+Let's+Build!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=06B6D4&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Harshit+Goyal!;🧠+AI+Automation+%7C+Machine+Learning+%7C+Data+Science;🤖+scikit-learn+%7C+XGBoost+%7C+TensorFlow+%7C+PyTorch;⚡+FAISS+%7C+RAG+%7C+LlamaIndex+%7C+Ollama;🧪+Self-Healing+Test+Automation+%7C+Playwright+%7C+Pytest;📊+Power+BI+%7C+Tableau+%7C+Streamlit+%7C+Gradio;🎓+B.Tech+IT+%40+RTU+Kota+(CGPA+8.55);🚀+Open+to+Opportunities+—+Let's+Build!" alt="Typing SVG" />
 </a>
 
 <br/>
