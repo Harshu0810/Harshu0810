@@ -173,11 +173,12 @@
 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:----:|
+| 🧪 **HealTest AI** | AI-augmented self-healing test automation framework — Ollama LLM recovers broken Playwright selectors at runtime | `Python` `Playwright` `Pytest` `Ollama` `CI/CD` | [🔗](https://github.com/Harshu0810/healtest-ai) |
 | ⚖️ **Indic Legal Engine** | Production-grade legal research platform featuring hybrid search (FAISS + BM25), cross-lingual routing, custom Indic keyboards, and RAG | `Python` `Streamlit` `FAISS` `Ollama` `Docker` | [🔗](https://huggingface.co/spaces/Harshit-2425/Indian-Judgemental) |
 | 🤖 **FailSafe AI** | Injects realistic failure scenarios into Python scripts & CSV datasets, maps errors to root causes & suggests fixes | `Python` `Streamlit` `Ollama` | [🔗](https://github.com/Harshu0810/failsafe-ai) |
 | 📊 **AlgoViz** | Client-side benchmarking tool that visualises sorting & searching algorithm runtimes with animated bar charts | `JavaScript` `Canvas` `HTML` | [🔗](https://github.com/Harshu0810/Algorithm-analyzer) |
 | 🎓 **CGPA–SGPA Calculator** | Live GPA calculator & converter with clean, responsive UI | `HTML` `CSS` `JS` | [🔗](https://cgpa-scpa-magic-amber.vercel.app/) |
-| 🧪 **HealTest AI** | AI-augmented self-healing test automation framework — Ollama LLM recovers broken Playwright selectors at runtime | `Python` `Playwright` `Pytest` `Ollama` `CI/CD` | [🔗](https://github.com/Harshu0810/healtest-ai) |
+
 
 </div>
 
