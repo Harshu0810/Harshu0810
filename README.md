@@ -284,6 +284,7 @@
 | 🏅 Certification | 🏛️ Issuer | 🔗 Links |
 |:-----------------|:---------|:--------:|
 | **Data Science Essentials with Python** | Cisco Networking Academy | [📜 Certificate](https://www.netacad.com/recognitions/verify/2ee71bca-3fb9-4aac-a8d4-ae7f8ac90d31) &nbsp; [🏅 Badge](https://www.credly.com/badges/7cc30f7f-4f25-4488-a7c7-c9bea61daa4b/public_url) |
+| **Data Analytics and Visualization Job Simulation** | Accenture (Forage) | [📜 Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_GhoyFuQsKd2jjLfuq_1739539662457_completion_certificate.pdf) |
 
 </div>
 
