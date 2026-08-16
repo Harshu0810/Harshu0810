@@ -108,11 +108,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![axe-core](https://img.shields.io/badge/axe--core-663399?style=for-the-badge&logo=axe&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -175,6 +177,7 @@
 |:--------|:------------|:------|:----:|
 | 🧪 **HealTest AI** | AI-augmented self-healing test automation framework — Ollama LLM recovers broken Playwright selectors at runtime | `Python` `Playwright` `Pytest` `Ollama` `CI/CD` | [🔗](https://github.com/Harshu0810/healtest-ai) |
 | ⚖️ **Indic Legal Engine** | Production-grade legal research platform featuring hybrid search (FAISS + BM25), cross-lingual routing, custom Indic keyboards, and RAG | `Python` `Streamlit` `FAISS` `Ollama` `Docker` | [🔗](https://huggingface.co/spaces/Harshit-2425/Indian-Judgemental) |
+| 🛡️ **Setu Sentinel** | Automated accessibility & uptime monitoring for Indian government portals — axe-core WCAG 2.1 audits with GitHub Actions CI/CD | `Python` `Playwright` `axe-core` `GitHub Actions` `CI/CD` | [🔗](https://github.com/Harshu0810/setu-sentinel) |
 | 🤖 **FailSafe AI** | Injects realistic failure scenarios into Python scripts & CSV datasets, maps errors to root causes & suggests fixes | `Python` `Streamlit` `Ollama` | [🔗](https://github.com/Harshu0810/failsafe-ai) |
 | 📊 **AlgoViz** | Client-side benchmarking tool that visualises sorting & searching algorithm runtimes with animated bar charts | `JavaScript` `Canvas` `HTML` | [🔗](https://github.com/Harshu0810/Algorithm-analyzer) |
 | 🎓 **CGPA–SGPA Calculator** | Live GPA calculator & converter with clean, responsive UI | `HTML` `CSS` `JS` | [🔗](https://cgpa-scpa-magic-amber.vercel.app/) |
@@ -272,6 +275,16 @@
   <img src="https://img.shields.io/badge/Total_Commits-234-7c3aed?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Longest_Streak-6_days-06b6d4?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Open_Source-Active-34d399?style=for-the-badge&logo=github" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🏅 Certification | 🏛️ Issuer | 🔗 Links |
+|:-----------------|:---------|:--------:|
+| **Data Science Essentials with Python** | Cisco Networking Academy | [📜 Certificate](https://www.netacad.com/recognitions/verify/2ee71bca-3fb9-4aac-a8d4-ae7f8ac90d31) &nbsp; [🏅 Badge](https://www.credly.com/badges/7cc30f7f-4f25-4488-a7c7-c9bea61daa4b/public_url) |
+
 </div>
 
 ---
